@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projectandroid</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="home">Home</string>
+    <string name="logout">Log Out</string>
+    <string name="syndicemsi">SyndicEmsi</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="messagerie">Messagerie</string>
+    <string name="t_ches">Tâches</string>
+    <string name="annonces">Annonces</string>
+    <string name="documents">Documents</string>
+    <string name="carte">Carte</string>
+    <string name="settings">Settings</string>
+    <string name="show_map">Show Map</string>
+</resources>
